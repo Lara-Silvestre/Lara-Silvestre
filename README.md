@@ -37,7 +37,7 @@ Possuo um perfil analítico e detalhista, com foco na melhoria contínua da expe
 
 ### 🌱 Atualmente aprendendo
 
-- Automatização de testes com Cypress  
+- Automatização de testes com Cypress e Robot
 - Práticas de QA orientadas à experiência do usuário  
 - Boas práticas em testes de APIs com Postman
 

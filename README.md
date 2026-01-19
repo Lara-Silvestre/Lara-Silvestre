@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou a Lara do Carmo Silvestre!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas com foco em Quality Assurance (QA)  
-💼 Atualmente atuo como Suporte Técnico na Vsoft  
+💼 Atualmente atuo como Assistente de Qualidade de Software  
 📍 Campina Grande - PB  
 📧 laradeveloper.ads@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/lara-silvestre/)
@@ -21,7 +21,7 @@ Possuo um perfil analítico e detalhista, com foco na melhoria contínua da expe
 - **Testes & QA**: Cypress, Postman, Testes Manuais, TestLink, Robot  
 - **Linguagens**: JavaScript, SQL, HTML, CSS  
 - **Metodologias & Organização**: Scrum, Kanban, Trello  
-- **Suporte & Atendimento**: Zendesk, IXC Provedor, WhatsApp Business  
+- **Suporte & Atendimento**: Zendesk, AzureDevops
 - **Documentação & Colaboração**: Notion, Google Docs, Excel  
 
 ---
